@@ -8,7 +8,8 @@ web scraping, automation, APIs, and more – part of my 100 Days of Code journey
 |-----|---------|--------|
 | 45  | Web Scraping with BeautifulSoup | ✅ Completed |
 | 46  | Spotify Playlist using Musical Time Travel API | ✅ Completed  |
-| 47  | Amazon Price Tracker | ⬜ Not Started |
+| 47  | Amazon Price Tracker | ✅ Completed |
+| 48  | Cookie Clicker Bot with Selenium | ✅ Completed |
 
 ## 📌 Notes
 
