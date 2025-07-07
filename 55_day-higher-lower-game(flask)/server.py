@@ -1,7 +1,7 @@
 import random
 from flask import  Flask
 
-random_number = 9#random.randint(0, 9)
+random_number = random.randint(0, 9)
 print(f"Generated random number: {random_number}")
 
 app = Flask(__name__)
