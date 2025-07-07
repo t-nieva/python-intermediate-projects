@@ -10,6 +10,7 @@ web scraping, automation, APIs, and more – part of my 100 Days of Code journey
 | 46  | Spotify Playlist using Musical Time Travel API | ✅ Completed  |
 | 47  | Amazon Price Tracker | ✅ Completed |
 | 48  | Cookie Clicker Bot with Selenium | ✅ Completed |
+| 55  | 🎲 Number Guessing Game (Flask) | ✅ Completed |
 
 ## 📌 Notes
 
