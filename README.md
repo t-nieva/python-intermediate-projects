@@ -4,13 +4,15 @@ web scraping, automation, APIs, and more – part of my 100 Days of Code journey
 
 ## ✅ Progress Tracker
 
-| Day | Project | Status |
-|-----|---------|--------|
-| 45  | Web Scraping with BeautifulSoup | ✅ Completed |
+| Day | Project                                        | Status |
+|-----|------------------------------------------------|--------|
+| 45  | Web Scraping with BeautifulSoup                | ✅ Completed |
 | 46  | Spotify Playlist using Musical Time Travel API | ✅ Completed  |
-| 47  | Amazon Price Tracker | ✅ Completed |
-| 48  | Cookie Clicker Bot with Selenium | ✅ Completed |
-| 55  | 🎲 Number Guessing Game (Flask) | ✅ Completed |
+| 47  | Amazon Price Tracker                           | ✅ Completed |
+| 48  | Cookie Clicker Bot with Selenium               | ✅ Completed |
+| 55  | 🎲 Number Guessing Game (Flask)                | ✅ Completed |
+| 56  | Namecard project (Flask)                       | ✅ Completed |
+| 57  | 📝 Blog Project (Flask, Jinja)                | ✅ Completed |
 
 ## 📌 Notes
 
