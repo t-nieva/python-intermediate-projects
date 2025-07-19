@@ -12,7 +12,8 @@ web scraping, automation, APIs, and more – part of my 100 Days of Code journey
 | 48  | Cookie Clicker Bot with Selenium               | ✅ Completed |
 | 55  | 🎲 Number Guessing Game (Flask)                | ✅ Completed |
 | 56  | Namecard project (Flask)                       | ✅ Completed |
-| 57  | 📝 Blog Project (Flask, Jinja)                | ✅ Completed |
+| 57  | 📝 Blog Project (Flask, Jinja)                 | ✅ Completed |
+| 58  | TinDog Project (Bootstrap)                     | ✅ Completed |
 
 ## 📌 Notes
 
