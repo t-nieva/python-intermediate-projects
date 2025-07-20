@@ -14,6 +14,7 @@ web scraping, automation, APIs, and more – part of my 100 Days of Code journey
 | 56  | Namecard project (Flask)                       | ✅ Completed |
 | 57  | 📝 Blog Project (Flask, Jinja)                 | ✅ Completed |
 | 58  | TinDog Project (Bootstrap)                     | ✅ Completed |
+| 59  | 📝 Blog Project (Upgraded with Bootstrap, Flask, Jinja)    | ✅ Completed |
 
 ## 📌 Notes
 
